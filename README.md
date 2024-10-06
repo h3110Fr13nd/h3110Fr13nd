@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 ![](https://komarev.com/ghpvc/?username=h3110Fr13nd)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=h3110Fr13nd&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=h3110Fr13nd&theme=radical&hide_border=true)
