@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![](https://komarev.com/ghpvc/?username=h3110Fr13nd)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=h3110Fr13nd&hide_border=true)
